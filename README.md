@@ -1,6 +1,6 @@
 ### Hi there 👋 
-Aspiring fantasy author
-Youth Leader
+Aspiring fantasy author  
+Youth Leader  
 Adventurer
 <!--
 **TGregg06/TGregg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
